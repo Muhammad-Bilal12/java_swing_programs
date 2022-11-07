@@ -25,7 +25,7 @@ public class MyJButton {
         JButton btn = new JButton("Click Button");
         btn.setBounds(20,30,150,40);
         btn.setFont(new Font("Roboto",Font.PLAIN,18));
-        btn.setIcon(new ImageIcon("F:\\Bilal\\All About Java\\Java GUI\\Java Swing\\Basic_of_java_swing\\src\\basic_of_java_swing\\b_logo.png"));
+//        btn.setIcon(new ImageIcon("F:\\Bilal\\All About Java\\Java GUI\\Java Swing\\Basic_of_java_swing\\src\\basic_of_java_swing\\b_logo.png"));
         btn.setCursor(new Cursor(Cursor.HAND_CURSOR));
 //        btn.setVisible(false);
         
