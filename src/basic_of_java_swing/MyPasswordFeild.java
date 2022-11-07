@@ -19,7 +19,7 @@ public class MyPasswordFeild {
         frame1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //to close the run program by clicking on the close Icon
 
 //       TODO: Start you code here -
-        JPasswordField password = new JPasswordField();
+        JPasswordField password = new JPasswordField("1234");
         password.setBounds(10, 10, 200, 30);
         password.setEchoChar('*'); //to set hidden text
         password.setEchoChar((char)0); // how to show data        
